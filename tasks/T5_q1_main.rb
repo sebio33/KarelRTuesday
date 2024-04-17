@@ -4,16 +4,14 @@
 
 $graphical = true
 
-require_relative "../karel/ur_robot"
+require_relative "Q1_robot"
 require_relative "../karel/robota"
 
 # a task for a stair sweeper
 def task()
  
-  karel = ur_robot.new(1, 1, Robota::EAST, 0)
-  
- 
-  
+  karel = Q1Robot.new(3, 3, Robota::NORTH, 5)
+ karel.place_beepers
 end
 
 if __FILE__ == $0

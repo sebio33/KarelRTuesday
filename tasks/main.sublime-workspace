@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tur",
+				"turn_left"
+			],
+			[
+				"w",
+				"write_letter"
+			],
+			[
+				"put",
+				"put_5_beepers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.rb",
+			"settings":
+			{
+				"buffer_size": 483,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/osboxes/Documents/KarelRTuesday/tasks/bowling.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/e_writer.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/h_writer.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/o_writer.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/l_writer.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/4_1.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/letter_writer.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/asdfsadff.rb",
+		"/home/osboxes/Documents/KarelRTuesday/tasks/main.rb",
+		"/home/osboxes/Documents/KarelRTuesday/default/main.rb",
+		"/home/osboxes/Documents/KarelRTuesday/default/adder.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/karel.sublime-project",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/main.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/remote_control.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/robot.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/karel_window.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/environmentsetup.txt",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/adder.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/beeper_finder.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/beeper_layer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/beeper_putter.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/block_walker.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/choreographer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/contractor.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/field_harvester.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/guard.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/harvester.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/main.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/mathematician.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/mile_mover.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/mile_walker.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/neighbor_talker.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/observable_picker.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/organizer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/pg13.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/pg14.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/pg23.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/philosopher.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/racer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/relay_racer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/rent_a_jobber.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/replanter.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/section3.9.3.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/sloppy_but_valid.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/sparse_harvester.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/spy.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/strategy_layer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/thread_racer.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/default/walk_listener.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/doc/classes/Checker.html",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/direction.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/tk_robot_world.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/ur_robot.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/world_maker.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/robot_world_base.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/robota.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/sensor_pack.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/stair_sweeper.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/test_robots.rb",
+		"/home/osboxes/Documents/KarelRuby/KarelRTuesday/karel/robot_world.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 149.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.rb",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
