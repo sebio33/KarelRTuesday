@@ -18,23 +18,23 @@ def reculer
 	turn_left
 	turn_left
 end
-def pick_beepers
-	pick_beeper
+def pick_beepers1
 	move
-	move
-end
-def derniere_beeperr
 	pick_beeper
-	turn_right
+	turn_left
 	move
 	turn_right
 	move
 end
-def derniere_beeperl
+
+def pick_beepers2
 	pick_beeper
-	turn_left
+	turn_right
+	move
+	move
+	pick_beeper
 	move
 	turn_left
 	move
 end
-end
+d
