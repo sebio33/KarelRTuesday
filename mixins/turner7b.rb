@@ -5,7 +5,7 @@
  The beginnings of a student defined module to be mixed in to other classes to provide
  auxiliary methods that are generally useful.  
 =end
-module Turner
+module Turner7b
 
   # Turn right by executing three turn left actions
   def turn_right
@@ -29,19 +29,24 @@ module Turner
     turn_around
   end
 
-  def uturn_right
-    move
-    turn_right
-    move
-    turn_right
-    move
-  end
 
-  def uturn_left
-    move
-    turn_left
-    move
-    turn_left
-    move
-  end
+def next1
+  move
+  turn_right
+  move
+  put_beeper
+  turn_left
+end
+ 
+def action
+  4.times {next1
+  next1
+  next1
+  turn_right}
+  
+  
+
+
+end
+
 end

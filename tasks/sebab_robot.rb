@@ -5,12 +5,8 @@
 require_relative "../karel/ur_robot"
 # A class whose robots know how to sweep a short staircase of beepers
 class SebabRobot < UrRobot
+include Turner
 
-def turn_right
-   turn_left;
-   turn_left;
-   turn_left;
-end
 def pick_beepers1
 	move
 	pick_beeper
