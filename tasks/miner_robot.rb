@@ -3,31 +3,62 @@
 
 
 require_relative "../karel/ur_robot"
-require_relative "../mixins/grinch"
+require_relative "../mixins/miner"
 # A class whose robots know how to sweep a short staircase of beepers
-class GrinchRobot < UrRobot
-include Grinch
+class MinerRobot < UrRobot
+include Miner
 def execute
-	row_grab
-	turn_left
-	9.times {move}
-	turn_left
-	6.times {move}
-	turn_left
-	3.times {move}
+	3.times {go}
+	big_cave_grab
 	turn_right
-	row_grab
+	8.times {move}
 	turn_right
 	move
-	turn_right
+	small_cave_grab
 	move
 	move
 	move
 	turn_left
 	move
+	move
+	move
+	turn_right
+	5.times {move}
+	turn_right
+	move
+	turn_left
+	bouger_dans_usine
+	move
+	turn_right
+	move
 	turn_right
 	move
 	move
-	24.times {put_beeper}
+	turn_right
+	move
+	move
+	move
+	turn_left
+	move
+	turn_left
+	move
+	move
+	move
+	turn_right
+	bouger_dans_usine
+	move
+	turn_right
+	move
+	turn_right
+	move
+	move
+	turn_right
+	move
+	turn_left
+	move
+	60.times {put_beeper}
+	turn_left
+	turn_left
+	move
 end
 end
